@@ -46,8 +46,6 @@
 
 ➡️ [more blog posts...](https://jayteaare.medium.com/)
 
-<br />
-
 ---
 
 ## Projects:
