@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][tryhackme]
 [<img align="left" alt="Jayteaare | LinkedIn" width="22px" src="https://toppng.com/uploads/preview/share-this-project-with-your-network-of-choice-linkedin-icon-dark-blue-1156334992976sac5fcd4.png" />][linkedin]
-
+[<img align="left" alt="Jayteaare | Discord" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][discord]
 <br />
 
 ### Languages and Tools:
@@ -91,6 +91,6 @@
 
 [linkedin]: https://www.linkedin.com/in/tallis-jordan/
 [tryhackme]: https://tryhackme.com/p/jayteaare
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
+[discord]: https://discordapp.com/users/533659482463404033
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
