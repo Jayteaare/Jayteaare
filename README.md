@@ -23,7 +23,7 @@
 [<img align="left" alt="Azure" width="33px" src="https://cdn.wccftech.com/wp-content/uploads/2016/05/Azure_.png" />]
 [<img align="left" alt="Active Directory" width="33px" src="https://www.infoland.nl/wp-content/uploads/2018/02/Active-Directory-Logo-1024x640.png" />]
 [<img align="left" alt="Metasploit" width="33px" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
+[<img align="left" alt="Kali Linux" width="26px" src="https://th.bing.com/th/id/R.c11c0366038f29c7060c5fcc48d08385?rik=y9IvkA6JaaFmXw&riu=http%3a%2f%2fcliparts.co%2fcliparts%2fdT4%2fLdR%2fdT4LdR8Gc.png&ehk=zy3b0X4on6S5gkbJNIWu5HB19eXJQvFATUyJiBe01zA%3d&risl=&pid=ImgRaw&r=0" />]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
