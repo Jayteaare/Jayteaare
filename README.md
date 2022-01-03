@@ -13,12 +13,12 @@
 
 [<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][tryhackme]
 [<img align="left" alt="Jayteaare | LinkedIn" width="22px" src="https://toppng.com/uploads/preview/share-this-project-with-your-network-of-choice-linkedin-icon-dark-blue-1156334992976sac5fcd4.png" />][linkedin]
-[<img align="left" alt="Jayteaare | Discord" width="22px" src="https://clipartcraft.com/images/discord-logo-transparent-gray-5.png" />][discord]
+[<img align="left" alt="Jayteaare | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />][discord]
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
