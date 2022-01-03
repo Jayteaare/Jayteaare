@@ -52,7 +52,9 @@
 
 <!-- PS-LIST:START -->
 - PowerShell:
-  - [File Integrity Monitor (FIM)](https://github.com/Jayteaare/File-Integrity-Monitor/blob/master/gistfile1.txt)
+  - [File Integrity Monitor (FIM)](https://github.com/Jayteaare/File-Integrity-Monitor)
+  - [Active Directory User Creation](https://github.com/Jayteaare/AD-User-Creation)
+  - [Failed RDP log to Sentinel SIEM Convertor](https://github.com/Jayteaare/SIEM-Log-Convert)
 <!-- PS-POST-LIST:END -->   
 
 
