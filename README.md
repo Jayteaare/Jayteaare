@@ -14,7 +14,7 @@
 [<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Jayteaare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jayteaare | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />][discord]
-[<img align="left" alt="Jayteaare | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />][medium]
+[<img align="left" alt="Jayteaare | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />][blog]
 <br />
 
 ### Languages and Tools:
