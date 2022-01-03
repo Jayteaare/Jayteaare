@@ -19,7 +19,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="PowerShell" width="33px" src="https://www.freeiconspng.com/thumbs/powershell-icon/powershell-icon-9.png" />
-<img align="left" alt="Azure" width="33px" src="https://www.pngitem.com/pimgs/m/361-3612473_microsoft-azure-logo-png-white-transparent-png.png" />
+<img align="left" alt="Azure" width="33px" src="https://www.centriq.com/wp-content/uploads/2018/05/MS-Azure-Logo.jpg.png" />
 <img align="left" alt="Active Directory" width="33px" src="https://www.infoland.nl/wp-content/uploads/2018/02/Active-Directory-Logo-1024x640.png" />
 <img align="left" alt="Kali Linux" width="33px" src="https://toppng.com/public/uploads/thumbnail/kali-linux-logo-115629152254fbceqxiyy.png" />
 <img align="left" alt="Metasploit" width="33px" src="https://pbs.twimg.com/profile_images/580131056629735424/2ENTk2K2.png" />
