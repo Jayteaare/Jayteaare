@@ -52,6 +52,8 @@
 
   o PowerShell:
     [File Integrity Monitor (FIM)](https://github.com/Jayteaare/File-Integrity-Monitor/blob/master/gistfile1.txt)
+    
+--
 
 [linkedin]: https://www.linkedin.com/in/tallis-jordan/
 [tryhackme]: https://tryhackme.com/p/jayteaare
