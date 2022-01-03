@@ -50,9 +50,10 @@
 
 ## Projects:
 
-  o PowerShell:
-    [File Integrity Monitor (FIM)](https://github.com/Jayteaare/File-Integrity-Monitor/blob/master/gistfile1.txt)
-    
+<!-- PS-LIST:START -->
+- PowerShell:
+  - [File Integrity Monitor (FIM)](https://github.com/Jayteaare/File-Integrity-Monitor/blob/master/gistfile1.txt)
+<!-- PS-POST-LIST:END -->   
 
 
 [linkedin]: https://www.linkedin.com/in/tallis-jordan/
