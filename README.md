@@ -14,6 +14,7 @@
 [<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/tryhackme.svg" />][tryhackme]
 [<img align="left" alt="Jayteaare | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Jayteaare | Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/discord.svg" />][discord]
+[<img align="left" alt="Jayteaare | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/medium.svg" />][medium]
 <br />
 
 ### Languages and Tools:
@@ -94,3 +95,4 @@
 [discord]: https://discordapp.com/users/533659482463404033
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[blog]: https://jayteaare.medium.com/
