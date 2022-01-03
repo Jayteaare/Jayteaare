@@ -3,18 +3,15 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a Husband, Father, Cybersecurity Specialist, and Gamer!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 🥅 2022 Goals: BTL1, CDCP, GSEC, GCIH, GCFA, MRCI
+- ⚡ Fun fact: I just got out of the military!
 
 ### Connect with me:
 
-
-[<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][twitter]
+[<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][tryhackme]
 [<img align="left" alt="Jayteaare | LinkedIn" width="22px" src="https://toppng.com/uploads/preview/share-this-project-with-your-network-of-choice-linkedin-icon-dark-blue-1156334992976sac5fcd4.png" />][linkedin]
 
 <br />
@@ -93,7 +90,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/tallis-jordan/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
+[tryhackme]: https://tryhackme.com/p/jayteaare
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
