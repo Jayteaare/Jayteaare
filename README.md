@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Jayteaare | TryHackMe" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][tryhackme]
 [<img align="left" alt="Jayteaare | LinkedIn" width="22px" src="https://toppng.com/uploads/preview/share-this-project-with-your-network-of-choice-linkedin-icon-dark-blue-1156334992976sac5fcd4.png" />][linkedin]
-[<img align="left" alt="Jayteaare | Discord" width="22px" src="https://tryhackme.com/img/logo/thm_logo_circle.png" />][discord]
+[<img align="left" alt="Jayteaare | Discord" width="22px" src="https://clipartcraft.com/images/discord-logo-transparent-grey-3.png" />][discord]
 <br />
 
 ### Languages and Tools:
