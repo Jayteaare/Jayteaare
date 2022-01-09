@@ -4,7 +4,7 @@
 ## I'm a Husband, Father, Cybersecurity Specialist, and Gamer!
 
 - 🌱 I’m currently learning everything
-- 📜 Current certifications: BTJA, A+, NSE 2
+- 📜 Current certifications: BTJA, GFACT, A+, NSE 2
 - 🥅 2022 Goals: BTL1, CDCP, Sec+, CND, CEH, GSEC, GCIH, GCFA, MRCI
 - ⚡ Fun fact: I just got out of the military!
 
