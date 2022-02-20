@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 📜 Current certifications: BTJA, GFACT, A+, NSE 2
-- 🥅 2022 Goals: BTL1, CDCP, Sec+, CND, CEH, GSEC, GCIH, GCFA, MRCI
+- 🥅 2022 Goals: BTL1, CDCP, GSEC, GCIH, GCFA, MRCI
 - ⚡ Fun fact: I just got out of the military!
 
 ### Connect with me:
