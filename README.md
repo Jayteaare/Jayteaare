@@ -4,9 +4,8 @@
 ## I'm a Husband, Father, Cybersecurity Specialist, and Gamer!
 
 - 🌱 I’m currently learning everything
-- 📜 Current certifications: CDCP, BTL1, eJPT, GSEC, GFACT, A+
-- 🥅 2022 Goals: eCTHPv2, GCIH, GPEN, PNPT, GWAPT, GCPN, GCIA
-- ⚡ Fun fact: I just got out of the military!
+- 📜 Current certifications: GCIH, eCTHPv2, CDCP, BTL1, eJPT, GSEC, GFACT, A+
+- 🥅 2022 Goals: GPEN, PNPT, GWAPT, GCPN, GCIA, OSCP
 
 ### Connect with me:
 
