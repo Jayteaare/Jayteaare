@@ -56,8 +56,14 @@
   - [Active Directory User Creation](https://github.com/Jayteaare/AD-User-Creation)
   - [Failed RDP Log to Sentinel SIEM Convertor](https://github.com/Jayteaare/SIEM-Log-Convert)
 <!-- PS-POST-LIST:END -->   
-
-
+<!-- SH-LIST:START -->
+- Bash:
+  - [Log Back Up](https://github.com/Jayteaare/LogBackerUpper-Bash)
+<!-- SH-POST-LIST:END -->
+<!-- PY-LIST:START -->
+- Python:
+  - [SimpleScan](https://github.com/Jayteaare/PyProjects/blob/main/portscan.py)
+<!-- PY-LIST:START -->
 [linkedin]: https://www.linkedin.com/in/tallis-jordan/
 [tryhackme]: https://tryhackme.com/p/jayteaare
 [discord]: https://discordapp.com/users/533659482463404033
