@@ -52,6 +52,7 @@
 
 <!-- PS-LIST:START -->
 - PowerShell:
+  - [Sigcheck & VirusTotal Scanner](https://github.com/Jayteaare/SigcheckVT)
   - [File Integrity Monitor (FIM)](https://github.com/Jayteaare/File-Integrity-Monitor)
   - [Active Directory User Creation](https://github.com/Jayteaare/AD-User-Creation)
   - [Failed RDP Log to Sentinel SIEM Convertor](https://github.com/Jayteaare/SIEM-Log-Convert)
