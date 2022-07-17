@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning everything
 - 📜 Current certifications: GPEN, GCIH, eCTHPv2, CDCP, BTL1, eJPT, GSEC, GFACT, A+
-- 🥅 2022 Goals: PNPT, OSCP
+- 🥅 2022 Goals: eCPPT, GREM
 
 ### Connect with me:
 
