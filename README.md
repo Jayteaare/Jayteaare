@@ -1,7 +1,7 @@
 ### Hi there, I'm Tallis - aka [Jayteaare] 👋 
 
 
-## I'm a Husband, Father, Cybersecurity Specialist, and Gamer!
+## I'm a Husband, Father, Threat Analyst, and Gamer!
 
 - 🌱 I’m currently learning everything
 - 📜 Current certifications: GPEN, GCIH, eCTHPv2, CDCP, BTL1, eJPT, GSEC, GFACT, A+
