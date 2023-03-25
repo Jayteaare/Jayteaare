@@ -3,9 +3,16 @@
 
 ## I'm a Husband, Father, Threat Analyst, and Gamer!
 
-- 🌱 I’m currently learning everything
-- 📜 Current certifications: GPEN, GCIH, eCTHPv2, CDCP, BTL1, eJPT, GSEC, GFACT, A+
-- 🥅 2022 Goals: eCPPT, GREM
+Current certifications: 
+- GPEN
+- GCIH
+- eCTHPv2
+- CDCP
+- BTL1
+- eJPT
+- GSEC
+- GFACT
+- A+
 
 ### Connect with me:
 
