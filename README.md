@@ -1,15 +1,4 @@
-### Hi there, I'm Tallis - aka [Jayteaare] 👋 
-
-Current certifications: 
-- GPEN
-- GCIH
-- eCTHPv2
-- CDCP
-- BTL1
-- eJPT
-- GSEC
-- GFACT
-- A+
+teamghost.co
 
 Projects:
 
